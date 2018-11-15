@@ -1,4 +1,2 @@
 group_vars/*/*
 hosts.yml
-files/*.*
-files/concourse/*/*
